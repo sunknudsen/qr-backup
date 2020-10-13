@@ -4,7 +4,7 @@ The purpose of this project is to establish a more secure alternative to paper b
 
 *Using GnuPG is not the most secure option given SHA512 is (more) vulnerable to brute-force attacks (using Argon2, for example, would be more secure, but would require using code to access backups vs simply piping the output of the QR code to `gpg` making backups less interoperable).
 
-This above though process is open for debate (see [issues](https://github.com/sunknudsen/qr-backup/issues)).
+This above thought process is open for debate (see [issues](https://github.com/sunknudsen/qr-backup/issues/1)).
 
 ## The following is a proof-of-concept that requires work.
 
