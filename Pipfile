@@ -16,4 +16,3 @@ pyqrcode = "*"
 opencv-python = "*"
 numpy = "*"
 pypng = "*"
-
